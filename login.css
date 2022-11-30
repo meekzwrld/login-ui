@@ -1,0 +1,55 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("https://i.pinimg.com/736x/5b/0d/08/5b0d0810b5d74f895d015fd15e4339a8.jpg");
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100vw;
+    height:100vh;
+}
+h1 {
+    align-content: center;
+    display: flex;
+    justify-content: center;
+}
+.card {
+    border-style: solid;
+    border-color:rgb(82, 0, 89);
+    border-width: 4px;
+    border-radius:12px;
+    background-color:black;
+    min-width: 30%;
+    min-height: 20%;
+    display: center;
+    flex-direction: column;
+    justify-content: center;
+    color:white;
+}
+
+input {
+    margin:5px;
+}
+.submit {
+    background-color:;
+    width: 80px;
+    height: 30px;
+    display:flex-start;
+    
+}
+
+.forgot {
+    align-content: center;
+    display: flex;
+    justify-content: center;
+}
+.signup {
+    align-content: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+

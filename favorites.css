@@ -1,0 +1,65 @@
+h2  {
+    color:rgb(129, 129, 68);
+    text-align:center;
+} 
+h1 {
+color: rgb(129, 129, 68);
+text-align:center;
+border: 3px solid rgb(133, 105, 69);
+}
+body {background-color: #CFB997;
+    margin: auto;
+    width:50%;
+    text-align:center;
+    color:rgb(133, 105, 69)
+}
+
+
+.movies li {
+    list-style-type: none;
+    text-align:center;
+    width: 130px;
+    border: 15px solid rgb(22, 97, 22);
+    padding: 8px;
+    padding-bottom: 10px;
+    margin: 35px;
+    margin-left: -20px;
+    margin-right: 20px;
+    flex-direction: center;
+}
+
+.shows {
+    background-color: beige;
+
+}
+.songs li {
+    list-style-type: none;
+    text-align:center;
+    width: 130px;
+    border: 15px solid rgb(22, 97, 22);
+    padding: 8px;
+    margin: 40px;
+    margin-left: -20px;
+    margin-right: 20px;
+}
+    
+
+
+.container div {
+    display: inline-block;
+}
+
+.songs  {
+    background-color: beige;
+    font-family: monospace;
+}
+.jdm img{
+width:350px;
+border-style:solid;
+}
+.goat img{
+    width:326px;
+    border-style:solid;
+    float:right;
+    margin-left: 30px;
+}
